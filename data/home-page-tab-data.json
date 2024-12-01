@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shop",
+    "notifications": 0,
+    "tabComponent": ""
+  },
+  {
+    "name": "Mine",
+    "notifications": 0,
+    "tabComponent": ""
+  },
+  {
+    "name": "Refine",
+    "notifications": 0,
+    "tabComponent": ""
+  },
+  {
+    "name": "Craft",
+    "notifications": 0,
+    "tabComponent": ""
+  }
+]
